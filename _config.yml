@@ -1,0 +1,11 @@
+encoding: utf-8
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "LICENSE", "CNAME"]
+
+remote_theme: ress997/jekyll-lime
+plugins:
+- jekyll-remote-theme
+
+lang: ja
+title: Example Domain
+description: ""
+copyright: 2022 example.com
